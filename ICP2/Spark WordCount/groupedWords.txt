@@ -1,0 +1,43 @@
+": "blue 
+(: (USAF) (DoD) 
+1: 19 
+2: 2007 29–30 2007. 2007. 2008, 2008, 
+3: 36 
+5: 5 
+A: Air August AGM-129 ACM Air Air Air As Air Air Air Air 
+B: B-52H Base Barksdale Base Barksdale Bent Base Board Based 
+C: Chief Command 
+D: Dakota During Department Defense Defense Department Defense 
+F: Force Force Force Force Force Force Force Force 
+G: General Global 
+I: In In In 
+J: June 
+L: Louisiana. 
+M: Minot Minot Minot Michael Michael Moseley 
+N: North 
+O: October October 
+S: States Six States States Spear States Separate Science States Secretary Staff Strike 
+T: The The The The The T 
+U: United United United United USAF USAF USAF USAF USAF USAF United USAF USAF 
+W: W80-1 Wynne 
+a: a a at and and aircraft at and and as a a and an and a and/or and and at addition, and and a and any and and asked a announced all and 
+b: bomber been before bunker. both by by but been by by but by bombers, 
+c: cruise concern conducted concluded commanders commands, certain cruise concerns committee, creation control 
+d: does disciplined decertified duties, did 
+e: each existed 
+f: from for for followed four further from for find failures for 
+g: given. 
+h: heavy have hours. handling had handling handling 
+i: incident in in in incident incident, indicates incident is involve immediate incident, investigation, investigation involved in incident. issued instructions investigations incidents, in 
+l: loaded loaded levels 
+m: missiles, mistakenly missiles missiles missiles missing, mounted mandatory military missile missions missiles, 
+n: nuclear nuclear nuclear nuclear not not nuclear nuclear not nuclear nuclear not numerous numerous nuclear new nuclear nuclear not nuclear nuclear 
+o: occurred on onto of observers of of of of on of other of operations on of of on other on of of of of 
+p: period, protected precautions procedures personnel personnel perform procedures. panel procedures processes personnel. 
+r: removed reported remained reported referred response results released result, relieved ribbon" reported resignations, response recommendations review 
+s: supposed storage security significant standards sensitive suspended. security 
+t: transported to the to the taken their the to the this the the to the top the to that the threat to the the the that the their to types transport the the that the the the this the the their to the the to 
+v: variable various 
+w: weapons with warhead, were warheads were were with warheads were warheads were weapons. was which weapon war. which were weapons were were weapons were weapons weapons within with weapons. were which were 
+y: yield 
+–: – – 
